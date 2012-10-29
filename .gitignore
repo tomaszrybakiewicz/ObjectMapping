@@ -1,0 +1,58 @@
+web/api/fuel/app/logs/*
+web/api/fuel/app/tmp/*
+web/api/fuel/app/cache/*
+*.mwb.bak
+web/api/public/fs/*
+bin/*
+
+.DS_Store
+php_log
+working_assets
+
+# Netbeans project
+nbproject/*
+nbproject
+
+# XCode (and ancestors) per-user config (very noisy, and not relevant)
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+
+# Generated files
+VersionX-revision.h
+
+
+# build products
+build/
+*.[o]
+
+# Other source repository archive directories (protects when importing)
+.hg
+.svn
+CVS
+
+# automatic backup files
+*~.nib
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
+
+# xcode noise
+build/*
+*.pbxuser
+*.mode1v3
+
+# old skool
+.svn
+
+# osx noise
+profile
+/web/api/nbproject/private/
