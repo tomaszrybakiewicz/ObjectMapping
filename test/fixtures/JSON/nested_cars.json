@@ -1,0 +1,77 @@
+{
+	"cars" : [
+		{
+			"car" : {
+				"name" : "Mustang",
+				"brand" : "Ford",
+				"release_date" : "1964/11/23",
+				"paint_colors" : [ "black", "white", "red", "yellow"],
+				"thumbnails" : [
+					{
+						"url" : "http://images.askmen.com/top_10/cars/1301606037_top-10-best-car-names_1.jpg"
+					},
+					{
+						"url" :  "http://images.askmen.com/top_10/cars/1301606037_top-10-best-car-names_2.jpg"
+					}
+				],
+				"images" : [
+					{
+						"image" : {
+							"name" : "Mustang Image #1",
+							"url" : "http://3.bp.blogspot.com/-tsRJsW2xmyo/UFYyIZ3uBTI/AAAAAAAAACk/rBEazn8Hevg/s400/imgmustang+gt3.jpg"
+						}
+					},
+					{
+						"image" : {
+							"name" : "Mustang Image #2",
+							"url" : "http://static.cargurus.com/images/site/2009/01/08/15/03/1967_ford_mustang_shelby_gt500-pic-56694.jpeg"
+						}
+					},
+					{
+						"image" : {
+							"name" : "Mustang Image #3",
+							"url" : "http://www.tuningnews.net/wallpaper/1024x768/ford-mustang-shelby-gt500kr-glass-roof-01.jpg"
+						}
+					}					
+				],				
+				"specs" : {
+					"weight" : 1200,
+					"max_speed" : 260
+				},
+				"available" : "true"
+			}
+		},
+		{
+			"car" : {
+				"name" : "Countach",
+				"brand" : "Lamborghini",
+				"release_date" : "1974/03/14",
+				"paint_colors" : [ "black", "yellow"],
+				"thumbnails" : [
+					{
+						"url" : "http://images.askmen.com/top_10/cars/1301606035_top-10-best-car-names_5.jpg"
+					}
+				],
+				"images" : [
+					{
+						"image" : {
+							"name" : "Lambo Image #1",
+							"url" : "http://4.bp.blogspot.com/-RWibVtWWTnM/TV0aGUIaaxI/AAAAAAAAAMg/Bi_Y4caLIlk/s1600/lamborghini-lamborghini-countach-lp500s-1418625447.jpg"
+						}
+					},
+					{
+						"image" : {
+							"name" : "Lambo Image #2",
+							"url" : "http://www.autoperceptions.com/autoperceptions/wp-content/uploads/2012/04/lamborghini-countach-09.jpg"
+						}
+					}									
+				],	
+				"specs" : {
+					"weight" : 1100,
+					"max_speed" : 310
+				},
+				"available" : "false"
+			}
+		}
+	]
+}

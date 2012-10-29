@@ -1,0 +1,26 @@
+{
+    "id": 44531,
+    "name": "Tomasz Rybakiewicz",
+    "birthdate": "1985/04/12",
+    "is_developer": "true",
+    "skills": [
+        "iOS Development",
+        "Android Development"
+    ],
+    "address": {
+        "id": 1234,
+        "city": "New York City",
+        "state": "New York",
+        "country": "USA"
+    },
+    "family": [
+        {
+            "id": 33,
+            "name": "Magdalena Czaplinki"
+        },
+        {
+            "id": 7,
+            "name": "Marta Statucka"
+        }
+    ]
+}

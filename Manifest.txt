@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Tomasz Rybakiewicz
+Class-Path: jackson-mapper-asl-1.9.7.jar jackson-core-asl-1.9.7.jar
+Name: me/rybakiewicz/objectmapping

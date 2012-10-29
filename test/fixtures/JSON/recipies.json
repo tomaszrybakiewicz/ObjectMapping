@@ -1,0 +1,23 @@
+{ 	
+	"code":0,
+	"result": [ 
+		{
+			"name":"Recipe 1",
+			"id":"8aecfd9b2fa26e83012fa298c2a50017",
+			"recipe":"1 Lorem ipsum...",
+			"image":"/malibu-server/recipe/getImage/8aecfd9b2fa26e83012fa298c2a50017"
+		}, 
+		{ 
+			"name":"Recipe 2",
+			"id":"8aecfd9b2fa26e83012fa298c2a90018",
+			"recipe":"2 Lorem ipsum...",
+			"image": "/malibu-server/recipe/getImage/8aecfd9b2fa26e83012fa298c2a90018"
+		},
+		{
+			"name": "Recipe 3",
+			"id":"8aecfd9b2fa26e83012fa298c2ae0019",
+			"recipe":"3 Lorem ipsum...",
+			"image":  "/malibu-server/recipe/getImage/8aecfd9b2fa26e83012fa298c2ae0019"
+			} 
+	]
+}

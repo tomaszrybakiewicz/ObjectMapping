@@ -1,0 +1,47 @@
+{ 	
+	"code":0,
+	"result": {
+		"recipes" : [ 
+			{
+				"Recipe": {
+					"name":"Recipe 1",
+					"id":"8aecfd9b2fa26e83012fa298c2a50017",
+					"recipe":"1 Lorem ipsum...",
+					"image":"/malibu-server/recipe/getImage/8aecfd9b2fa26e83012fa298c2a50017",
+					"view_count":12,
+					"active":true,
+					"author": {
+						"fullname":"John Smith",
+						"age":21,
+						"id":"aaecfd9b2fa26e83012fa298c2a50000"
+					}
+				}
+			}, 
+			{ 
+				"Recipe": {
+					"name":"Recipe 2",
+					"id":"8aecfd9b2fa26e83012fa298c2a90018",
+					"recipe":"2 Lorem ipsum...",
+					"image": "/malibu-server/recipe/getImage/8aecfd9b2fa26e83012fa298c2a90018",
+					"view_count":31,
+					"active":false
+				}
+			},
+			{
+				"Recipe": {
+					"name": "Recipe 3",
+					"id":"8aecfd9b2fa26e83012fa298c2ae0019",
+					"recipe":"3 Lorem ipsum...",
+					"image":  "/malibu-server/recipe/getImage/8aecfd9b2fa26e83012fa298c2ae0019",
+					"view_count":1,
+					"active":true
+				}
+			} 
+		],
+		"user" : {
+			"fullname":"John Smith",
+			"age":21,
+			"id":"aaecfd9b2fa26e83012fa298c2a50000"
+		}
+	}
+}

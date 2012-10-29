@@ -1,0 +1,16 @@
+{
+    "users" : [
+        {
+           "user" : {
+               "id" : 1234,
+               "name" : "Tomasz Rybakiewicz"
+            }
+        },
+        {
+           "user" : {
+               "id" : 321,
+               "name" : "Marta Statucka"
+           }
+        }
+    ]
+}
