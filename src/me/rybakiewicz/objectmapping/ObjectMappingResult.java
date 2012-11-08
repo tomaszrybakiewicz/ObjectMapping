@@ -73,4 +73,8 @@ public class ObjectMappingResult {
 		List<Object> collection = asCollection();
 		return collection.isEmpty() ? null : collection.get(0);
 	}
+	
+	public Map<?,?> asMap() {
+		return mKeyPathToMappedObjects;
+	}
 }
