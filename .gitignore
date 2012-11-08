@@ -13,6 +13,9 @@ working_assets
 nbproject/*
 nbproject
 
+# Eclipse project
+.settings/*
+
 # XCode (and ancestors) per-user config (very noisy, and not relevant)
 *.mode1
 *.mode1v3
